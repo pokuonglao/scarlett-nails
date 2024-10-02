@@ -59,7 +59,7 @@ export default function RootLayout({ children }) {
         </main>
 
         <footer className="bg-gray-800 p-4 text-white text-center mt-8">
-          <p>© 2024 Scarlett's Nails. All rights reserved.</p>
+          <p>© 2024 Em Oi Nails. All rights reserved.</p>
         </footer>
       </body>
     </html>
